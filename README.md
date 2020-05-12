@@ -1,5 +1,7 @@
 # GitHub Api - Flutter Application
 
+<img src='lib/assets/images/githubRepo.png' heigth='300' width='250'>
+
 ## About this project
 
 The idea of this app is : 
